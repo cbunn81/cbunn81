@@ -10,8 +10,8 @@ I'm based in Tokushima, Japan right now, but I'm originally from Philadelphia, P
 
 ### [ECATS Test](https://github.com/globallabo/ecats-test)
 
-This is a multiple-choice test app made to test the English level of Japanese EFL/ESL students. The backend is Django (DRF) with a PostgreSQL database. The frontend is React with Redux Toolkit, RTK-Query and Material UI.
+This is a multiple-choice test app made to test the English level of Japanese EFL/ESL students. The backend is Django (DRF) with a PostgreSQL database. The frontend is React with Redux Toolkit, RTK-Query and Material UI. Deployment is via Docker.
 
 ### [Elite curriculum generation](https://github.com/globallabo/elite)
 
-This is a project to easily generate a full set of PDFs for a business English curriculum with a standard template and content pulled from Google Sheets. The goal is to allow all team members to edit the content of lessons without any knowledge of the code which produces the end result. The content is stored as text in Google Sheets (along with some static images). The templates are made with Jinja and custom HTML/CSS. And everything is brought together using a command-line app based in Python, with Typer as a framework and Weasyprint as a means to produce PDF output.
+This is a project to easily generate a full set of PDFs for a business English curriculum with a standard template and content pulled from Google Sheets. The goal is to allow all team members to edit the content of lessons without any knowledge of the code which produces the end result. The content is stored as text in Google Sheets (along with some static images in the project directory). The templates are made with Jinja and custom HTML/CSS. And everything is brought together using a command-line app based in Python, with Typer as a framework and Weasyprint as a means to produce PDF output.
