@@ -15,3 +15,15 @@ This is a multiple-choice test app made to test the English level of Japanese EF
 ### [Elite curriculum generation](https://github.com/globallabo/elite)
 
 This is a project to easily generate a full set of PDFs for a business English curriculum with a standard template and content pulled from Google Sheets. The goal is to allow all team members to edit the content of lessons without any knowledge of the code which produces the end result. The content is stored as text in Google Sheets (along with some static images in the project directory). The templates are made with Jinja and custom HTML/CSS. And everything is brought together using a command-line app based in Python, with Typer as a framework and Weasyprint as a means to produce PDF output.
+
+### [All Stars curriculum generation](https://github.com/globallabo/allstars)
+
+This is a project to easily generate a full set of PDFs for an elementary-level English curriculum with a set of standard templates and content pulled from Google Sheets. It is a similar, but earlier, project to the above Elite project. And so it as a similar goal to allow all team members to edit the content of lessons without any knowledge of the code which produces the end result. The content is also stored as text in Google Sheets (along with some static images in the project directory). In this case, there are multiple templates made with custom HTML/CSS to accommodate different needs for different levels of student as these worksheets emphasize writing practice. There are also templates for flashcards. And everything is brought together using a command-line app based in Python, with Typer as a framework and Weasyprint as a means to produce PDF output.
+
+### [Eikenvocab flashcard generator](https://github.com/globallabo/eikenvocab)
+
+This is another automation project. The goal this time was to produce a set of vocabulary flashcards for students studying to take standardized English exams. Previous exams can be downloaded and scanned for English words. Then a word list is created, ranking the words by their frequency across all tests. Public translation and transliteration APIs are used to produce translations in hiragana for students. The word list is stored in Google Sheets to allow other team members to verify and adjust the word list and translations. Then the list is converted into a set of flashcards in PDF form to be printed.
+
+### [checkr](https://github.com/cbunn81/checkr)
+
+This is a command-line tool written in Python, using Typer as a framework. It scans files and records their cryptographic hashes, and later rescans them and verifies the hashes to ensure data integrity. The intended use case for myself is to monitor a directory of photos for signs of bitrot. But checkr can be useful to anyone wishing to verify that files haven't changed.
