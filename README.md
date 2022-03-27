@@ -1,12 +1,12 @@
 ![Sunset over the Yoshino River, Tokushima, Japan](/sunset-crop.jpg "Sunset over the Yoshino River, Tokushima, Japan")
 
-# Christopher Bunn (cbunn81)
+# Christopher Bunn
 
 Hi, there! I'm a self-taught programmer and aspiring software engineer. I have experience with a variety of technologies with a focus on web development and automation. The tech stack I'm enjoying at the moment is Django (DRF) with PostgreSQL on the backend and React with Redux Toolkit on the frontend.
 
 I'm based in Tokushima, Japan right now, but I'm originally from Philadelphia, PA, USA. I'm open to both remote work as well as onsite work in Japan or the US. Please have a look at some of my projects below and feel free to contact me.
 
-## Projects
+## Recent Projects
 
 ### [ECATS Test](https://github.com/globallabo/ecats-test)
 
@@ -26,4 +26,4 @@ This is another automation project. The goal this time was to produce a set of v
 
 ### [checkr](https://github.com/cbunn81/checkr)
 
-This is a command-line tool written in Python, using Typer as a framework. It scans files and records their cryptographic hashes, and later rescans them and verifies the hashes to ensure data integrity. The intended use case for myself is to monitor a directory of photos for signs of bitrot. But checkr can be useful to anyone wishing to verify that files haven't changed.
+This is a command-line tool written in Python, using Typer as a framework and either CSV or SQLite as a data store. It scans files and records their cryptographic hashes, and later rescans them and verifies the hashes to ensure data integrity. The intended use case for myself is to monitor a directory of photos for signs of bit rot. But checkr can be useful to anyone wishing to verify that files haven't changed.
