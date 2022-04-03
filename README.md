@@ -10,7 +10,7 @@ I'm based in Tokushima, Japan right now, but I'm originally from Philadelphia, P
 
 ### [ECATS Test](https://github.com/globallabo/ecats-test)
 
-This is a multiple-choice test app made to test the English level of Japanese EFL/ESL students. The backend is Django (DRF) with a PostgreSQL database. The frontend is React with Redux Toolkit, RTK-Query and Material UI. Deployment is via Docker.
+This is a multiple-choice test app made to test the English level of Japanese EFL/ESL students. The backend is Django (DRF) with a PostgreSQL database. The frontend is React with Redux Toolkit, RTK-Query and Material UI. Deployment is via Docker. Note that this project is still under active development and hasn't yet reached a release stage.
 
 ### [Elite curriculum generation](https://github.com/globallabo/elite)
 
