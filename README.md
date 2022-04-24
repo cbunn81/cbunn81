@@ -12,11 +12,11 @@ I'm based in Tokushima, Japan right now, but I'm originally from Philadelphia, P
 
 A multiple-choice test app made to evaluate the English level of Japanese EFL/ESL students. The backend is Django (DRF) with a PostgreSQL database. The frontend is React with Redux Toolkit, RTK-Query and Material UI. Deployment is via Docker. Note that this project is still under active development and hasn't yet reached a release stage.
 
-### [Elite curriculum generation](https://github.com/globallabo/elite)
+### [Elite curriculum generator](https://github.com/globallabo/elite)
 
 A project to easily generate a full set of PDFs for a business English curriculum with a standard template and content pulled from Google Sheets. The goal is to allow all team members to edit the content of lessons without any knowledge of the code which produces the end result. The content is stored as text in Google Sheets (along with some static images in the project directory). The templates are made with Jinja and custom HTML/CSS. And everything is brought together using a command-line app based in Python, with Typer as a framework and Weasyprint as a means to produce PDF output.
 
-### [All Stars curriculum generation](https://github.com/globallabo/allstars)
+### [All Stars curriculum generator](https://github.com/globallabo/allstars)
 
 A project to easily generate a full set of PDFs for an elementary-level English curriculum with a set of standard templates and content pulled from Google Sheets. It is a similar, but earlier, project to the above Elite project. And so it as a similar goal to allow all team members to edit the content of lessons without any knowledge of the code which produces the end result. The content is also stored as text in Google Sheets (along with some static images in the project directory). In this case, there are multiple templates made with custom HTML/CSS to accommodate different needs for different levels of student as these worksheets emphasize writing practice. There are also templates for flashcards. And everything is brought together using a command-line app based in Python, with Typer as a framework and Weasyprint as a means to produce PDF output.
 
