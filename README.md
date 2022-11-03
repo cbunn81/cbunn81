@@ -2,7 +2,7 @@
 
 # Christopher Bunn
 
-Hi, there! I'm an experienced web and software developer. I have experience with a variety of technologies with a focus on web development and automation. The tech stack I'm enjoying at the moment is Django (DRF) with PostgreSQL on the backend and React with Redux Toolkit on the frontend.
+Hi, there! I'm an experienced web and software developer. I have experience with a variety of technologies with a focus on web development and automation. I've built a number of projects using Python and JavaScript/TypeScript. For frameworks, I like Django for the backend and Next.js/React.js for frontend.
 
 I'm based in Tokushima, Japan right now, but I'm originally from Philadelphia, PA, USA. I'm open to both remote work as well as onsite work in Japan or the US. Please have a look at some of my projects below and feel free to contact me.
 
