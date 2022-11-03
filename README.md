@@ -6,6 +6,8 @@ Hi, there! I'm an experienced web and software developer. I have experience with
 
 I'm based in Tokushima, Japan right now, but I'm originally from Philadelphia, PA, USA. I'm open to both remote work as well as onsite work in Japan or the US. Please have a look at some of my projects below and feel free to contact me.
 
+Also, check out [my new personal website](https://cbunn.com)! It's made with TypeScript, Next.js, Chakra UI and MDX.
+
 ## Recent Projects
 
 ### [ECATS Test](https://github.com/globallabo/ecats-test)
